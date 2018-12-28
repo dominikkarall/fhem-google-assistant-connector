@@ -21,6 +21,8 @@
     "commander": "^2.19.0",
     "firebase": "^5.7.1",
     "node-fetch": "^2.3.0",
-    "readline-sync": "^1.4.9"
+    "readline-sync": "^1.4.9",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
   }
 }
