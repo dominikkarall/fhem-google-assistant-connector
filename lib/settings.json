@@ -6,11 +6,11 @@
   "AUDIENCE_URI": "https://us-central1-fhem-testsignin.cloudfunctions.net",
 
   "firebase":{
-    apiKey: "AIzaSyBAxzmkmAEsSeyVqNxh6RLQYjGe5cw1WNA",
-    authDomain: "fhem-assistant-action.firebaseapp.com",
-    databaseURL: "https://fhem-assistant-action.firebaseio.com",
-    projectId: "fhem-assistant-action",
-    storageBucket: "fhem-assistant-action.appspot.com",
-    messagingSenderId: "944850022791"
+    "apiKey": "AIzaSyBAxzmkmAEsSeyVqNxh6RLQYjGe5cw1WNA",
+    "authDomain": "fhem-assistant-action.firebaseapp.com",
+    "databaseURL": "https://fhem-assistant-action.firebaseio.com",
+    "projectId": "fhem-assistant-action",
+    "storageBucket": "fhem-assistant-action.appspot.com",
+    "messagingSenderId": "944850022791"
   }
 }
