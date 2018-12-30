@@ -1,0 +1,16 @@
+
+{
+  "CLOUD_FUNCTIONS_BASE": "https://europe-west1-fhem-assistant-action.cloudfunctions.net",
+  "CLIENT_ID": "dLNaW2C3TYd19Jfhtc9A0617cQ33IuKL",
+  "AUTH0_DOMAIN": "https://9jr6lwwzfn.eu.auth0.com",
+  "AUDIENCE_URI": "https://us-central1-fhem-testsignin.cloudfunctions.net",
+
+  "firebase":{
+    apiKey: "AIzaSyBAxzmkmAEsSeyVqNxh6RLQYjGe5cw1WNA",
+    authDomain: "fhem-assistant-action.firebaseapp.com",
+    databaseURL: "https://fhem-assistant-action.firebaseio.com",
+    projectId: "fhem-assistant-action",
+    storageBucket: "fhem-assistant-action.appspot.com",
+    messagingSenderId: "944850022791"
+  }
+}
