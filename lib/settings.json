@@ -4,6 +4,7 @@
   "CLIENT_ID": "dLNaW2C3TYd19Jfhtc9A0617cQ33IuKL",
   "AUTH0_DOMAIN": "https://9jr6lwwzfn.eu.auth0.com",
   "AUDIENCE_URI": "https://us-central1-fhem-testsignin.cloudfunctions.net",
+  "CLIENT_VERSION": "1.0",
 
   "firebase":{
     "apiKey": "AIzaSyBAxzmkmAEsSeyVqNxh6RLQYjGe5cw1WNA",
