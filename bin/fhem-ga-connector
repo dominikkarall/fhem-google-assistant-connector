@@ -6,7 +6,7 @@
 
 'use strict';
 
-process.title = 'ghome';
+process.title = 'fhem-connect';
 
 // Find the HomeBridge lib
 const path = require('path');
