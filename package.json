@@ -1,18 +1,22 @@
 {
-  "name": "fhem-google-assistant-connector",
+  "name": "fhemconnect",
   "version": "1.0.0",
-  "description": "Easily connect your FHEM installation to the FHEM Connector addon in your Google Home app.",
+  "description": "Easily connect your FHEM installation to the FHEM Connect addon in your Google Home app.",
   "main": "index.js",
   "directories": {
     "lib": "lib"
+  },
+  "bin": {
+    "fhemconnect": "./bin/fhemconnect"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "fhem",
+    "fhemconnect",
     "google assistant",
-    "fhem connector",
+    "fhem connect",
     "google home"
   ],
   "author": "Dominik Karall",
